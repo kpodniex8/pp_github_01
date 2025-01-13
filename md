@@ -9,13 +9,13 @@
     <script>
 
         // declare Str variable
-       var name = "Kārlis";
+       let name = "Kārlis";
 
        // declare int variable
-       var age = 34;
+      let age = 34;
 
        // declare boolean variable
-        var isStudent = true;
+        let isStudent = true;
 
         console.log("Sveiks, " + name + "!");
         console.log("Tev ir " + age + " gadi.");
